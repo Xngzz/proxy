@@ -1,7 +1,6 @@
 # Loon 手动配置 - 此配置文件需要你手动选择所需的代理服务器，若出现故障不会自动切换，必须手动干预选择可用的替代服务器。
 # Date: 2025-11-08 00:21:37
-# Author: https://t.me/iKeLee
-# 更多插件可前往 https://hub.kelee.one 安装
+
 
 [General]
 ip-mode=v4-only
